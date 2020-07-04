@@ -3,7 +3,7 @@
 :root {
 
   --margin: 5px;
-  --y-axis-page-align: flex-start;
+  --y-axis-page-align: center;
   --x-axis-page-align: center;
   /** Colors **/
   /* These are the main colors used for stlying elements across the app */
@@ -14,7 +14,7 @@
   --background-border-color: #1d1d1d;
   --border-bg-color: #2e2e2e;
 
-  --background: transparent;
+  --background: #222;
 
   /** Border **/
   --border-type: solid;
@@ -33,7 +33,7 @@
 
 /* Sizes */
   /* Page Width */
-  --max-width: 1300px;
+  --max-width: 500px;
 
 /* Fonts */
   --primary-font: 'Open Sans', sans-serif;
