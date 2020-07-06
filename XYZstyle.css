@@ -42,3 +42,18 @@
   --font-size: var(--responsive-font-size);
 
 }
+
+.vuwnu_link {
+  margin: var(--margin);
+  border: solid 10px rgba(1,1,1,0.6);
+  color: white;
+  font-size: 3em;
+  font-family: 'MuseoModerno', cursive;
+  line-height: 1;
+  width: 100%;
+  display: grid;
+  text-align: center;
+  background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+  background-size: 1800% 1800%;
+  animation: rainbow 18s ease infinite;
+}
