@@ -42,3 +42,7 @@
   --font-size: var(--responsive-font-size);
 
 }
+
+.vuwnu_link {
+  font-family: 'MuseoModerno', cursive;
+}
